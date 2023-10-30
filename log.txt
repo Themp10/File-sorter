@@ -1,0 +1,69 @@
+
+========================================================
+1 : Moved file : C:\Users\oaboujaafar\Downloads\278W.docx ===> D:\main\docs
+2 : Moved file : C:\Users\oaboujaafar\Downloads\361W.docx ===> D:\main\docs
+3 : Moved file : C:\Users\oaboujaafar\Downloads\AZUNIX - Devis N° 0346 .pdf ===> D:\main\docs
+4 : Moved file : C:\Users\oaboujaafar\Downloads\BIOSTECH - DEVIS MFADEL IT 48P.pdf ===> D:\main\docs
+5 : Moved file : C:\Users\oaboujaafar\Downloads\Bon de Sortie.pdf ===> D:\main\docs
+6 : Moved file : C:\Users\oaboujaafar\Downloads\Dossier de mise en oeuvre VEEAM BR v20230120.pdf ===> D:\main\docs
+7 : Moved file : C:\Users\oaboujaafar\Downloads\ECSI - MFADEL kaspersky+Fortigate 60f +AP HP+Switchs HPDevis D-2023-0111.pdf ===> D:\main\docs
+8 : Moved file : C:\Users\oaboujaafar\Downloads\export_formcreator_20231026_1653.json ===> D:\main\other
+9 : Moved file : C:\Users\oaboujaafar\Downloads\F01-Fiche création articles (1) (1).xlsx ===> D:\main\docs
+10 : Moved file : C:\Users\oaboujaafar\Downloads\F01-Fiche création articles (1) (2).xlsx ===> D:\main\docs
+11 : Moved file : C:\Users\oaboujaafar\Downloads\F01-Fiche création articles (1) (7).xlsx ===> D:\main\docs
+12 : Moved file : C:\Users\oaboujaafar\Downloads\F01-Fiche création articles (1).xlsx ===> D:\main\docs
+13 : Moved file : C:\Users\oaboujaafar\Downloads\F05-Décharge Matériel 3ZV1QT3.docx ===> D:\main\docs
+14 : Moved file : C:\Users\oaboujaafar\Downloads\F05-Décharge Matériel JYV1QT3.docx ===> D:\main\docs
+15 : Moved file : C:\Users\oaboujaafar\Downloads\Fiche création articles (1).xlsx ===> D:\main\docs
+16 : Moved file : C:\Users\oaboujaafar\Downloads\Fiche création articles.xlsx ===> D:\main\docs
+17 : Moved file : C:\Users\oaboujaafar\Downloads\fusioninventory-agent_windows-x64_2.4.2.exe ===> D:\main\apps
+18 : Moved file : C:\Users\oaboujaafar\Downloads\Git-2.42.0.2-64-bit.exe ===> D:\main\apps
+19 : Moved file : C:\Users\oaboujaafar\Downloads\GLPI-Agent-1.5-x64.msi ===> D:\main\apps
+20 : Moved file : C:\Users\oaboujaafar\Downloads\HTBS - DEV-GROUPE MFADEL-1023-0168.pdf ===> D:\main\docs
+21 : Moved file : C:\Users\oaboujaafar\Downloads\logo-G-100-grey.png ===> D:\main\images
+22 : Moved file : C:\Users\oaboujaafar\Downloads\logo-mg.png ===> D:\main\images
+23 : Moved file : C:\Users\oaboujaafar\Downloads\MediaCreationTool22H2.exe ===> D:\main\apps
+24 : Moved file : C:\Users\oaboujaafar\Downloads\options_installer.exe ===> D:\main\apps
+25 : Moved file : C:\Users\oaboujaafar\Downloads\pdf.zip ===> D:\main\compressed
+26 : Moved file : C:\Users\oaboujaafar\Downloads\photofiltre11.5.0_fr_setup.exe ===> D:\main\apps
+27 : Moved file : C:\Users\oaboujaafar\Downloads\PROPOSITION DEVIS GROUPE MFADEL (1).pdf ===> D:\main\docs
+28 : Moved file : C:\Users\oaboujaafar\Downloads\PROPOSITION DEVIS GROUPE MFADEL.pdf ===> D:\main\docs
+29 : Moved file : C:\Users\oaboujaafar\Downloads\TB comparatif  projet infrastructure (1).xlsx ===> D:\main\docs
+30 : Moved file : C:\Users\oaboujaafar\Downloads\TB comparatif  projet infrastructure (1dd).xlsx ===> D:\main\docs
+31 : Moved file : C:\Users\oaboujaafar\Downloads\TB comparatif  projet infrastructuresvs.xlsx ===> D:\main\docs
+32 : Moved file : C:\Users\oaboujaafar\Downloads\tes.txt ===> D:\main\docs
+33 : Moved file : C:\Users\oaboujaafar\Downloads\VSCodeUserSetup-x64-1.83.1.exe ===> D:\main\apps
+34 : Moved file : C:\Users\oaboujaafar\Downloads\WinRAR 6.23 Win x64 Français Préactivé.wawacity.pink.rar ===> D:\main\compressed
+35 : Moved file : C:\Users\oaboujaafar\Downloads\xampp-windows-x64-8.0.28-0-VS16-installer.exe ===> D:\main\apps
+========================================================
+1 : Moved file : C:\Users\oaboujaafar\Downloads\278W.docx ===> D:\main\docs
+2 : Moved file : C:\Users\oaboujaafar\Downloads\361W.docx ===> D:\main\docs
+3 : Moved file : C:\Users\oaboujaafar\Downloads\AZUNIX - Devis N° 0346 .pdf ===> D:\main\docs
+4 : Moved file : C:\Users\oaboujaafar\Downloads\BIOSTECH - DEVIS MFADEL IT 48P.pdf ===> D:\main\docs
+5 : Moved file : C:\Users\oaboujaafar\Downloads\Bon de Sortie.pdf ===> D:\main\docs
+6 : Moved file : C:\Users\oaboujaafar\Downloads\Dossier de mise en oeuvre VEEAM BR v20230120.pdf ===> D:\main\docs
+7 : Moved file : C:\Users\oaboujaafar\Downloads\ECSI - MFADEL kaspersky+Fortigate 60f +AP HP+Switchs HPDevis D-2023-0111.pdf ===> D:\main\docs
+8 : Moved file : C:\Users\oaboujaafar\Downloads\F01-Fiche création articles (1) (1).xlsx ===> D:\main\docs
+9 : Moved file : C:\Users\oaboujaafar\Downloads\F01-Fiche création articles (1) (2).xlsx ===> D:\main\docs
+10 : Moved file : C:\Users\oaboujaafar\Downloads\F01-Fiche création articles (1) (7).xlsx ===> D:\main\docs
+11 : Moved file : C:\Users\oaboujaafar\Downloads\F01-Fiche création articles (1).xlsx ===> D:\main\docs
+12 : Moved file : C:\Users\oaboujaafar\Downloads\F05-Décharge Matériel 3ZV1QT3.docx ===> D:\main\docs
+13 : Moved file : C:\Users\oaboujaafar\Downloads\F05-Décharge Matériel JYV1QT3.docx ===> D:\main\docs
+14 : Moved file : C:\Users\oaboujaafar\Downloads\Fiche création articles (1).xlsx ===> D:\main\docs
+15 : Moved file : C:\Users\oaboujaafar\Downloads\Fiche création articles.xlsx ===> D:\main\docs
+16 : Moved file : C:\Users\oaboujaafar\Downloads\fusioninventory-agent_windows-x64_2.4.2.exe ===> D:\main\apps
+17 : Moved file : C:\Users\oaboujaafar\Downloads\Git-2.42.0.2-64-bit.exe ===> D:\main\apps
+18 : Moved file : C:\Users\oaboujaafar\Downloads\GLPI-Agent-1.5-x64.msi ===> D:\main\apps
+19 : Moved file : C:\Users\oaboujaafar\Downloads\HTBS - DEV-GROUPE MFADEL-1023-0168.pdf ===> D:\main\docs
+20 : Moved file : C:\Users\oaboujaafar\Downloads\MediaCreationTool22H2.exe ===> D:\main\apps
+21 : Moved file : C:\Users\oaboujaafar\Downloads\options_installer.exe ===> D:\main\apps
+22 : Moved file : C:\Users\oaboujaafar\Downloads\photofiltre11.5.0_fr_setup.exe ===> D:\main\apps
+23 : Moved file : C:\Users\oaboujaafar\Downloads\PROPOSITION DEVIS GROUPE MFADEL (1).pdf ===> D:\main\docs
+24 : Moved file : C:\Users\oaboujaafar\Downloads\PROPOSITION DEVIS GROUPE MFADEL.pdf ===> D:\main\docs
+25 : Moved file : C:\Users\oaboujaafar\Downloads\TB comparatif  projet infrastructure (1).xlsx ===> D:\main\docs
+26 : Moved file : C:\Users\oaboujaafar\Downloads\TB comparatif  projet infrastructure (1dd).xlsx ===> D:\main\docs
+27 : Moved file : C:\Users\oaboujaafar\Downloads\TB comparatif  projet infrastructuresvs.xlsx ===> D:\main\docs
+28 : Moved file : C:\Users\oaboujaafar\Downloads\tes.txt ===> D:\main\docs
+29 : Moved file : C:\Users\oaboujaafar\Downloads\VSCodeUserSetup-x64-1.83.1.exe ===> D:\main\apps
+30 : Moved file : C:\Users\oaboujaafar\Downloads\WinRAR 6.23 Win x64 Français Préactivé.wawacity.pink.rar ===> D:\main\compressed
+31 : Moved file : C:\Users\oaboujaafar\Downloads\xampp-windows-x64-8.0.28-0-VS16-installer.exe ===> D:\main\apps

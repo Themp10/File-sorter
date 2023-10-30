@@ -10,14 +10,16 @@ def getPath(appExt,extension):
     return path
 
 def main():
-
+    copiedFiles=0
     config = configparser.ConfigParser()
     config.read(r"config.ini")
-    dest_folder="D:\\main"
-    
-    chemins=config.get("Chemins","links").split(";")
+    dest_folder=config.get("Chemins","destination")
+    chemins=config.get("Chemins","searchpaths").split(",")
     appExt=config.items("Extentions")
+    newLine="========================================================"
 
+    with open('log.txt', 'a') as fd:
+        fd.write(f'\n{newLine}')
 
     for chemin in chemins:
         fichiers = os.listdir(chemin)
@@ -27,9 +29,19 @@ def main():
             if folder!="":
                 fichier=os.path.join(chemin,fichierPath)
                 dossier_destination=os.path.join(dest_folder,folder)
-                print(fichier)
-                print(dossier_destination)
-                shutil.move(fichier, dossier_destination)
+                try:
+                    shutil.move(fichier, dossier_destination)
+                    copiedFiles+=1
+                    logLine=str(copiedFiles) + " : Moved file : " + fichier + " ===> " + dossier_destination                   
+                except  Exception as e:
+                    logLine=e 
+
+                with open('log.txt', 'a') as fd:
+                    fd.write(f'\n{logLine}')
+    if copiedFiles==0:
+        newLine="No file copied"
+        with open('log.txt', 'a') as fd:
+            fd.write(f'\n{newLine}')
 
 if __name__ == "__main__":
     main()
