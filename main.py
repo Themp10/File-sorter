@@ -2,42 +2,34 @@ import configparser
 import os
 import shutil
 
+def getPath(appExt,extension):
+    path=""
+    for fileType in appExt:
+        if extension in fileType[1].split(","):
+            path=fileType[0]
+    return path
+
 def main():
-    # Open the configuration file
+
     config = configparser.ConfigParser()
     config.read(r"config.ini")
-   
-    # Get the list of paths
-    # chemins = config["chemins"]
+    dest_folder="D:\\main"
     
-    paths=config.get("chemins","links").split(";")
-    details_dict = config.items('extentions')[0][0].split(",")
-    print(details_dict)
-    # # Get the dictionary of extensions
-    # dossiers_destination = {}
-    # for extension, dossier in config["extentions"].items():
-    #     extension = extension.strip()
-    #     dossier = dossier.strip()
-    #     dossiers_destination[extension] = dossier
+    chemins=config.get("Chemins","links").split(";")
+    appExt=config.items("Extentions")
 
-    # # Iterate over the paths
-    # for chemin in chemins:
-    #     # List the files in the directory
-    #     fichiers = os.listdir(chemin)
-    #     print(os.path.join(chemin, fichier))
 
-    #     # Iterate over the files
-    #     for fichier in fichiers:
-    #         # Get the extension of the file
-    #         extension = os.path.splitext(fichier)[1]
-    #         extension = extension.strip()
-
-    #         # Get the destination directory for the file
-    #         dossier_destination = dossiers_destination.get(extension)
-    #         print(dossier_destination)
-
-    #         # Move the file to the destination directory
-    #         # shutil.move(os.path.join(chemin, fichier), dossier_destination)
+    for chemin in chemins:
+        fichiers = os.listdir(chemin)
+        for fichierPath in fichiers:
+            extension = os.path.splitext(fichierPath)[1].replace(".","")
+            folder=getPath(appExt,extension)
+            if folder!="":
+                fichier=os.path.join(chemin,fichierPath)
+                dossier_destination=os.path.join(dest_folder,folder)
+                print(fichier)
+                print(dossier_destination)
+                shutil.move(fichier, dossier_destination)
 
 if __name__ == "__main__":
     main()
