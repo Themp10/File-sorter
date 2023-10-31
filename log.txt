@@ -67,3 +67,23 @@
 29 : Moved file : C:\Users\oaboujaafar\Downloads\VSCodeUserSetup-x64-1.83.1.exe ===> D:\main\apps
 30 : Moved file : C:\Users\oaboujaafar\Downloads\WinRAR 6.23 Win x64 Français Préactivé.wawacity.pink.rar ===> D:\main\compressed
 31 : Moved file : C:\Users\oaboujaafar\Downloads\xampp-windows-x64-8.0.28-0-VS16-installer.exe ===> D:\main\apps
+========================================================
+[WinError 32] Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus: 'C:\\Users\\oaboujaafar\\Downloads\\AZUNIX - Devis N° 0346 .pdf'
+[WinError 32] Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus: 'C:\\Users\\oaboujaafar\\Downloads\\BIOSTECH - DEVIS MFADEL IT 48P.pdf'
+1 : Moved file : C:\Users\oaboujaafar\Downloads\ECSI - MFADEL kaspersky+Fortigate 60f +AP HP+Switchs HPDevis D-2023-0111.pdf ===> D:\main\docs
+[WinError 32] Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus: 'C:\\Users\\oaboujaafar\\Downloads\\HTBS - DEV-GROUPE MFADEL-1023-0168.pdf'
+2 : Moved file : C:\Users\oaboujaafar\Downloads\logo-GLPI-100-grey.png ===> D:\main\images
+3 : Moved file : C:\Users\oaboujaafar\Downloads\logo-GLPI-100-white.png ===> D:\main\images
+[WinError 32] Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus: 'C:\\Users\\oaboujaafar\\Downloads\\PROPOSITION DEVIS GROUPE MFADEL.pdf'
+========================================================
+Destination path 'D:\main\docs\AZUNIX - Devis N° 0346 .pdf' already exists
+Destination path 'D:\main\docs\BIOSTECH - DEVIS MFADEL IT 48P.pdf' already exists
+Destination path 'D:\main\docs\HTBS - DEV-GROUPE MFADEL-1023-0168.pdf' already exists
+Destination path 'D:\main\docs\PROPOSITION DEVIS GROUPE MFADEL.pdf' already exists
+No file copied
+========================================================
+Destination path 'D:\main\docs\AZUNIX - Devis N° 0346 .pdf' already exists
+Destination path 'D:\main\docs\BIOSTECH - DEVIS MFADEL IT 48P.pdf' already exists
+Destination path 'D:\main\docs\HTBS - DEV-GROUPE MFADEL-1023-0168.pdf' already exists
+Destination path 'D:\main\docs\PROPOSITION DEVIS GROUPE MFADEL.pdf' already exists
+No file copied

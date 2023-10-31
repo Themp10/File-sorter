@@ -2,6 +2,14 @@ import configparser
 import os
 import shutil
 
+
+def checkDesitnationFolders(appExt,dest_folder):
+    path=""
+    for fileType in appExt:
+        path=os.path.join(dest_folder,fileType[0])
+        os.makedirs(path, exist_ok=True)
+        
+
 def getPath(appExt,extension):
     path=""
     for fileType in appExt:
@@ -10,14 +18,15 @@ def getPath(appExt,extension):
     return path
 
 def main():
+
     copiedFiles=0
     config = configparser.ConfigParser()
     config.read(r"config.ini")
     dest_folder=config.get("Chemins","destination")
     chemins=config.get("Chemins","searchpaths").split(",")
     appExt=config.items("Extentions")
+    checkDesitnationFolders(appExt,dest_folder)
     newLine="========================================================"
-
     with open('log.txt', 'a') as fd:
         fd.write(f'\n{newLine}')
 
